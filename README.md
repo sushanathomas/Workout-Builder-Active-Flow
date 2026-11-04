@@ -6,8 +6,6 @@ Users can sign up, log in, and build a personal exercise list. Each account can 
 
 ## Live Application
 
-Render: [Visit Active Flow — Workout Builder](https://auth-workout-builder-active-flow.onrender.com/)
-
 <img width="500" height="500" alt="Displine" src="https://github.com/user-attachments/assets/b987ce13-54c5-4f71-b984-7c45cacad906" />
 
 <img width="500" height="500" alt="Discipline,jpg" src="https://github.com/user-attachments/assets/c514d32a-d521-46a8-b163-548cc4c6e11b" />
