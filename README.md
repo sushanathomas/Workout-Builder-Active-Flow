@@ -4,6 +4,8 @@ A full-stack workout tracker with Passport authentication.
 
 Users can sign up, log in, and build a personal exercise list. Each account can only view and manage its own exercises.
 
+Rendee: https://auth-workout-builder-active-flow.onrender.com/
+
 ## Live Application
 
 <img width="500" height="500" alt="Displine" src="https://github.com/user-attachments/assets/b987ce13-54c5-4f71-b984-7c45cacad906" />
