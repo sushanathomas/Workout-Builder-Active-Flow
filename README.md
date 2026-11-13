@@ -1,4 +1,4 @@
-# Active Flow — Workout Builder
+# Active Flow — Workout Builder(auth)
 
 A full-stack workout tracker with Passport authentication.
 
